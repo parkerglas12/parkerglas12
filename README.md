@@ -19,8 +19,7 @@ I'm currently a data science student who's infinitely curious about data and usi
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 <br>
-
----
+<br>
 
 ### 📊 GitHub Stats
 
