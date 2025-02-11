@@ -1,6 +1,6 @@
 # 🔍 Parker Glas
 
-**`Student, Meditator, & Redhead`**
+**`Every dataset has a plot twist.`**
 
 I'm currently a data science student who's infinitely curious about data and using its insights to solve the problems around us. Everywhere I look, I see untapped data that could tell us a remarkable story if we interpret and use its guidance. I'm just beginning my journey and have much to learn, but my desire to create projects bigger than myself drives me to constantly learn, try, fail, get back up, and never stop.
 
@@ -18,7 +18,7 @@ I'm currently a data science student who's infinitely curious about data and usi
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-#
+---
 
 ### 📊 GitHub Stats
 
