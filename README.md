@@ -21,6 +21,10 @@ I'm currently a data science student who's infinitely curious about data and usi
 <br>
 <br>
 
+### ☎️ Let's Connect
+
+I'm always looking to connect with fellow data science students or anyone in the data science field. Having a group of people working toward something is far more powerful than going it alone, and I'd love to grow my group of people. If you'd like to contact me to collaborate and learn together, please email me at parkerglas@gmail.com. I would love to get to know you and discuss our shared passion for data science!
+
 ### 📊 GitHub Stats
 
 ![Parker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkerglas12)
